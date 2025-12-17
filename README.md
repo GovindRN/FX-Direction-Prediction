@@ -108,6 +108,3 @@ model = create_model(
 ## Disclaimer
 
 Research/backtesting code only — not financial advice. Add robust validation (walk-forward, slippage, sensitivity testing) before any real-world use.
-
-```
-```
